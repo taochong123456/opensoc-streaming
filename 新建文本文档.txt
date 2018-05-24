@@ -1,0 +1,1 @@
+-config_path F:\workspace\opensoc-streaming\OpenSOC-Topologies\src\main\resources\OpenSOC_Configs -debug true -generator_spout false -local_mode true -generator_spout false
